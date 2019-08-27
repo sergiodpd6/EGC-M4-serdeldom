@@ -11,7 +11,7 @@
 * Posteriormente se subirán a https://hdvirtual.us.es/discovirt/index.php/s/cEesn9HLJ2ssWtL (password: ThisIsThePassword) los archívos comprimidos. Asímismo se completará la entrega en la url https://opina.us.es/opina/c/476046 (password: ThisIsThePassword). **La modificación de cualquier contenido del repositorio (wiki, issues o código) una vez entregado el examen implicará el suspenso del alumno. Antes de dejar la sala de la prueba, avisar al profesor para verificar que todo está correctamente enviado.**
 
 
-## Ejecicio A
+## Ejecicio
 1. Realice un fork de este repositorio con el nombre EGC-M4-"uvus".
 2. Clone el repositorio del cual ha hecho el fork. :camera:
 3. Cree una nueva rama llamada desarrollo en el repositorio. :camera:
