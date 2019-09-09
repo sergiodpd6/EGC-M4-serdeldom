@@ -5,6 +5,7 @@ python:
 - "3.6"
 env: 
 - DJANGO=2.0 db=postgres
+- DJANGO=1.11.24 db=postgres
 
 before_install: 
 - cd decide
