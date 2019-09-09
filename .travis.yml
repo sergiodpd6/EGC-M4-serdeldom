@@ -10,6 +10,11 @@ install:
 - pip install -r ../requirements.txt
 - pip install psycopg2-binary
 - pip install django-cors-headers
+- pip install pycryptodome
+- pip install djangorestframework
+- pip install requests
+- pip install django-filter
+- pip install django-rest-swagger
 services:
   - postgresql
 
